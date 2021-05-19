@@ -1,0 +1,2 @@
+rootProject.name = "O2OBeerFinder2"
+include ':app'

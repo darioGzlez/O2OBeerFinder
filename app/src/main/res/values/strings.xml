@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">O2OBeerFinder</string>
+    <string name="search">Buscar…</string>
+    <string name="description">Descripción</string>
+    <string name="ingredients">Ingredientes</string>
+    <string name="tips">Consejos</string>
+    <string name="tags">Etiquetas</string>
+</resources>
